@@ -8,10 +8,11 @@
 
 The huge challenge when using libraries was mainly the theoretical aspect, where I consumed several articles and explanations on the subject, so that I could develop the system.
 
-# Main knowledge obtained.
+# Technologies Used.
 
-+ Use of Yolo and OpenCV libraries
-+ Better code organization
+ + Python
+ + Open CV
+ + Yolo / Darknet
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -21,11 +22,12 @@ The huge challenge when using libraries was mainly the theoretical aspect, where
 
 O enorme desafio ao utilizar as bibliotecas, foi principalmente o quesito teórico, onde consumi diversos artigos e explicações sobre o assunto, para que assim podesse desenvolver o sistema. 
 
-# Principais Conhecimentos obtidos. 
+# Tecnologias Usadas . 
 
- + Utilização das bibliotecas Yolo e OpenCV
- + Melhor organização do código
- 
+ + Python
+ + Open CV
+ + Yolo / Darknet
+ ------------------------------------------------------------------------------------------------------------------------------------------------
  
 ![Captura de tela de 2021-07-30 09-59-26](https://user-images.githubusercontent.com/74799613/127656768-f5dbfebb-ff40-4e8b-afd9-ed211c491e31.png)
 
