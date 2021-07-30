@@ -1,30 +1,31 @@
-# ObjetosDeteccao
+<h1>Objetos Detecção</h1>
 
-Object detection and classification project with Python, using Open CV and Yolo libraries.
+> Status: Finished ✅
 
-#Key Factor
+### Object detection and classification project with Python, using Open CV and Yolo libraries.
+
+## Key Factors
 
 The huge challenge when using libraries was mainly the theoretical aspect, where I consumed several articles and explanations on the subject, so that I could develop the system.
 
-#Main knowledge obtained.
+# Main knowledge obtained.
 
-- Use of Yolo and OpenCV libraries
-- Deepening my logic
-- Better code organization
++ Use of Yolo and OpenCV libraries
++ Better code organization
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-Projeto detecção e classificação de objetos com Python, utilizando as bibliotecas Open CV e Yolo.
+### Projeto detecção e classificação de objetos com Python, utilizando as bibliotecas Open CV e Yolo.
 
-#Fator Chave
+## Fatores Chaves
 
 O enorme desafio ao utilizar as bibliotecas, foi principalmente o quesito teórico, onde consumi diversos artigos e explicações sobre o assunto, para que assim podesse desenvolver o sistema. 
 
-#Principais Conhecimentos obtidos. 
+# Principais Conhecimentos obtidos. 
 
- - Utilização das bibliotecas Yolo e OpenCV
- - Aprofundamento da minha lógica 
- - Melhor organização do código
+ + Utilização das bibliotecas Yolo e OpenCV
+ + Melhor organização do código
+ 
  
 ![Captura de tela de 2021-07-30 09-59-26](https://user-images.githubusercontent.com/74799613/127656768-f5dbfebb-ff40-4e8b-afd9-ed211c491e31.png)
 
