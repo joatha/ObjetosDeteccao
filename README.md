@@ -1,4 +1,4 @@
-<h1>Objetos Detecção</h1>
+<h1>Detection Objects</h1>
 
 > Status: Finished ✅
 
@@ -15,6 +15,7 @@ The huge challenge when using libraries was mainly the theoretical aspect, where
  + Yolo / Darknet
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
+<h1>Objetos Detecção</h1>
 
 ### Projeto detecção e classificação de objetos com Python, utilizando as bibliotecas Open CV e Yolo.
 
