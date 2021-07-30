@@ -12,3 +12,4 @@ O enorme desafio ao utilizar as bibliotecas, foi principalmente o quesito teóri
  - Aprofundamento da minha lógica 
  - Melhor organização do código
  
+![Captura de tela de 2021-07-30 09-59-26](https://user-images.githubusercontent.com/74799613/127656768-f5dbfebb-ff40-4e8b-afd9-ed211c491e31.png)
