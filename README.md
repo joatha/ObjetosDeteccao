@@ -21,7 +21,7 @@ The huge challenge when using libraries was mainly the theoretical aspect, where
 
 ## Fatores Chaves
 
-O enorme desafio ao utilizar as bibliotecas, foi principalmente o quesito teórico, onde consumi diversos artigos e explicações sobre o assunto, para que assim podesse desenvolver o sistema. 
+Um dos desafios ao utilizar as bibliotecas, foi principalmente o quesito teórico, onde consumi diversos artigos e explicações sobre o assunto, para que assim podesse desenvolver o sistema. 
 
 # Tecnologias Usadas . 
 
